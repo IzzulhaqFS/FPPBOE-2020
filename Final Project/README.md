@@ -6,7 +6,7 @@ Sokoban adalah sebuah puzzle game dimana player mendorong kotak atau peti menuju
 
 Kelas Diagram :
 
-
+![classDiagram](https://user-images.githubusercontent.com/57482751/104805692-85a18280-5804-11eb-89c4-ef66d4f4860d.PNG)
 
 Kelas-Kelas yang digunakan :
 
