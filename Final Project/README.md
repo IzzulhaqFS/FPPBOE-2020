@@ -89,7 +89,7 @@ selain itu kelas ini juga yang menyediakan Frame untuk game ini.
 
 Fitur Utama dalam Game SOKOBAN ini adalah memiliki 30 level dengan tingkat kesulitan yang semakin bertambah yang dapat dimainkan.
 
-
+![levels](https://user-images.githubusercontent.com/57482751/104798779-f42e1280-57fb-11eb-99e8-245059107e8e.PNG)
 
 Referensi:
 https://zetcode.com/javagames/sokoban/
