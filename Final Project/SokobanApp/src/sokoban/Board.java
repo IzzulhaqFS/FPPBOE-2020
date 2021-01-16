@@ -36,8 +36,8 @@ public class Board extends JPanel {
 	private ArrayList<Area> areas;
 	
 	private Player p;
-	private int w = 0;
-	private int h = 0;
+//	private int w = 0;
+//	private int h = 0;
 	
 	boolean isCompleted = false;
 	
