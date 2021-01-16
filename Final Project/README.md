@@ -75,6 +75,8 @@ Untuk method terdapat
 
 7. MainMenu.java
 
+![mainmenu](https://user-images.githubusercontent.com/57482751/104798660-32770200-57fb-11eb-855d-3002cd3e00e9.PNG)
+
 merupakan kelas yang berfungsi untuk menampilkan menu utama sebelum memulai permainan. 
 terdapat beberapa Button yakni Play dan Exit, kemudian juga terdapat ComboBox yang berisi list Level yang tersedia.
 
