@@ -82,10 +82,14 @@ terdapat beberapa Button yakni Play dan Exit, kemudian juga terdapat ComboBox ya
 
 8. Sokoban.java
 
+![gameplay](https://user-images.githubusercontent.com/57482751/104798714-93063f00-57fb-11eb-98a1-72bbe13abdc9.PNG)
+
 merupakan kelas yang memiliki fungsi main() dimana ketika di-run fungsi tersebut akan memanggil constructor MainMenu().
 selain itu kelas ini juga yang menyediakan Frame untuk game ini.
 
 Fitur Utama dalam Game SOKOBAN ini adalah memiliki 30 level dengan tingkat kesulitan yang semakin bertambah yang dapat dimainkan.
+
+
 
 Referensi:
 https://zetcode.com/javagames/sokoban/
